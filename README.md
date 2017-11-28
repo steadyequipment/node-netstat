@@ -1,6 +1,7 @@
 # node-netstat
 
 A library utility for reading netstat data. It's been tested on Ubuntu 14.04, Windows 7 and OS X Yosemite. 
+[![Known Vulnerabilities](https://snyk.io/test/github/steadyequipment/node-netstat/badge.svg)](https://snyk.io/test/github/steadyequipment/node-netstat)
 
 ## Installation
 
